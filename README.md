@@ -20,3 +20,37 @@ ddosRip'i kullanmak üzere Termux'a şu komutları yazın:
 `$ ls`
 
 `$ python3 ddosRip.py` 
+## USGAE İÇİN KODLAR
+`python3 ddosRip.py -s [ip Address] -t 135`
+`example: python3 ddosRip.py -s 0.00.00.00 -t 135`
+## LİNUX İÇİN KODLAR
+`sudo apt install git`
+`git clone https://github.com/zukonizim/ddos-intermediary.git`
+`cd ddosRip.py`
+`$ ls`
+`$ python3 ddosRip.py` OR `python2 ddosRip.py`
+## Windows İÇİN KODLAR
+`git clone https://github.com/zukonizim/ddos-intermediary.git`
+
+`cd ddos-intermediary`
+` ls`
+
+`python3 ddosRip.py` OR `python ddosRip.py`
+
+`python3 ddosRip.py -s [ip Address] -t 135`
+`example: python3 ddosRip.py -s 0.00.00.00 -t 135`
+## MacOS İÇİN KODLAR
+Brew indirin sonra Python 3 indirin 
+Herhangi bir sorunla karşılaşırsanız lütfen <zukonizim@gmail.com> veya zuko.sensei Instagram hesabına yazın.
+Bu programın neden olduğu herhangi bir kötüye kullanım veya hasardan sorumlu değiliz. Sadece eğitim amaçlıdır. 
+
+## DESTEKLİ PLATFORMLAR
+●🖥Linux OS( Kali 🐉 Ubuntu )
+
+●📱Termux >
+
+●🖥Windows
+
+●🖥MAC
+
+## İYİ KULLANIMLAR🫥
